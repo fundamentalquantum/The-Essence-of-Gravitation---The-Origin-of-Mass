@@ -14,4 +14,4 @@
   2.1 Defines time as counts of SEQ state transitions;
   
   2.2 Derives entropy from energy distribution products over SEQ, naturally enforcing the arrow of time.
- https://doi.org/10.5281/zenodo.15088556
+ https://doi.org/10.5281/zenodo.15088555
